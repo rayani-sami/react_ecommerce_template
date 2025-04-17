@@ -47,7 +47,7 @@ const Headers = () => {
                         <ul className='flex justify-start items-center gap-8'>
                             <li className='flex relative justify-center items-center gap-2 text-sm after:absolute after:h-[18px] after:w-[1px] after:bg-[#afafaf] after:-right-[16px]'>
                                 <span><GrMail /></span>
-                                <span>sheikhfarid@gmail.com</span>
+                                <span>sami@gmail.com</span>
                             </li>
                             <span>Multi vendor ecommerce</span>
                         </ul>
@@ -63,7 +63,6 @@ const Headers = () => {
                                     <img src="/images/language.png" alt="" />
                                     <span><MdOutlineKeyboardArrowDown /></span>
                                     <ul className='absolute invisible transition-all to-12 rounded-sm duration-200 text-white p-2 w-[100px] flex flex-col gap-3 group-hover:visible group-hover:top-6 group-hover:bg-black z-10'>
-                                        <li>Bangla</li>
                                         <li>English</li>
                                     </ul>
                                 </div>
@@ -202,7 +201,7 @@ const Headers = () => {
                         <ul className='flex flex-col justify-start items-start gap-3 text-[#1c1c1c]'>
                             <li className='flex justify-start items-center gap-2  text-sm'>
                                 <span><GrMail /></span>
-                                <span>learnwithproject@gmail.com</span>
+                                <span>sami@gmail.com</span>
                             </li>
                             <span className='text-sm'>Multi vendor ecommerce</span>
                         </ul>
